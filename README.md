@@ -7,7 +7,7 @@ much to water.  I have used this system on my own garden for the past three year
 
 Please see the full project description and documentation (hardware and software) on Hackster.io.  
 
-Here is the project link: https://www.hackster.io/chipmc/smart-and-safe-outdoor-plant-watering-system-new-for-2018
+Here is the project link: [https://www.hackster.io/chipmc/smart-and-safe-outdoor-plant-watering-system-new-for-2018](https://www.hackster.io/chipmc/smart-and-safe-outdoor-plant-watering-system-new-for-2018-17d5c8)https://www.hackster.io/chipmc/smart-and-safe-outdoor-plant-watering-system-new-for-2018-17d5c8
 
 And keep an eye out for annual updates.
 
